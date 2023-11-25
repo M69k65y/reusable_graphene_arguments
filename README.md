@@ -1,6 +1,6 @@
 # Reusable Arguments in Graphene-Django
 
-This repository contains code that demonstrates how to define GraphQL queries that share common arguments as explained in this post.
+This repository contains code that demonstrates how to define GraphQL queries that share common arguments as explained in [this post][reusable-args].
 
 
 ## [Pre-requisites](#pre-requisites)
